@@ -22,10 +22,9 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Since the bookings increase on Clear weather days with hotter temperature, the company must increase their bike availibilty and promotions during the summer months to further increase their booking count.
+
+An R-Squared value of 0.82 on the test data signifies that the model is a very good predictor and 82% of the variance is captured by the model.
 
 
 ## Contact
